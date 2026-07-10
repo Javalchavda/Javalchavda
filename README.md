@@ -1,29 +1,18 @@
 # 💫 About Me:
-
-🔭 I’m currently working on Industrial Projects<br>👯 I’m looking to collaborate on GenAI<br>🤝 I’m looking for help with DA<br>🌱 I’m currently learning DA<br>💬 Ask me about any projects<br>⚡ Fun fact project driven
-
+# 👋 Hi, I'm Javal Chavda<br><br>🚀 **Project Management Professional (PMP®) | Aspiring Data Analyst & Business Analyst | Problem Solver**<br><br>I'm passionate about turning ideas into successful projects and transforming data into meaningful business decisions. I enjoy solving real world problems, streamlining processes, and continuously learning new technologies that help organizations grow.<br><br>### 💼 What I'm Working On<br><br>📊 Building strong skills in **SQL, Excel, Power BI, Python, and Data Analytics**<br><br>📈 Developing business analysis and project management solutions<br><br>🎯 Preparing for opportunities in **Project Management, Business Analysis, Consulting, and Data Analytics**<br><br>### 🛠️ Tech Stack<br><br>💻 SQL<br><br>📊 Power BI<br><br>📈 Microsoft Excel<br><br>🐍 Python<br><br>📋 Microsoft Project<br><br>📝 Jira<br><br>📌 Trello<br><br>📂 Notion<br><br>🔄 Git & GitHub<br><br>### 🌱 Currently Learning<br><br>✨ Advanced SQL<br><br>✨ Data Visualization<br><br>✨ Business Intelligence<br><br>✨ Automation & AI Tools<br><br>✨ Cloud Fundamentals<br><br>### 🎯 Career Goals<br><br>🏆 Become a high impact Project Manager and Business Consultant<br><br>📊 Use data to drive smarter business decisions<br><br>🌍 Build innovative solutions that create real value<br><br>📚 Never stop learning and improving<br><br>### 🤝 Let's Connect<br><br>💡 I enjoy collaborating on:<br><br>* Project Management<br>* Data Analytics<br>* Business Intelligence<br>* Process Improvement<br>* AI Productivity Tools<br>* Open Source Projects<br><br>### ⚡ Fun Fact<br><br>> *"Success isn't about working harder every day. It's about building better systems, making smarter decisions, and improving by just 1% every single day."* 🚀<br><br>---<br><br>### 📈 GitHub Goals<br><br>⭐ Build useful projects<br><br>🚀 Contribute to open source<br><br>📚 Learn in public<br><br>💻 Share knowledge<br><br>🤝 Connect with amazing developers worldwide<br><br>**Thanks for stopping by! Happy Coding! 🚀✨**<br>
 
 
-
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/javalchavda) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/javalchavda) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:javalandroid23@gmail.com) 
 
 # 💻 Tech Stack:
-
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
-
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
 # 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=javalchavda&theme=merko&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=javalchavda&theme=merko&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=javalchavda&theme=merko&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-![](https://github-readme-stats.shion.dev/api?username=Javalchavda&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
-![](https://streak-stats.demolab.com/?user=Javalchavda&theme=dark&hide_border=false)<br/>
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Javalchavda&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-
----
-
-[![](https://komarev.com/ghpvc/?username=Javalchavda&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=javalchavda&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
